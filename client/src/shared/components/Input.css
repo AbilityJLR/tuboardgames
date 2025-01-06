@@ -1,0 +1,19 @@
+.input input{
+  border: none;
+  background-color: white;
+  height: 100%;
+  width: 40vw;
+  font-size: 24px;
+  border-radius: 10px;
+}
+
+.input input::placeholder{
+  color: #C4C4C4;
+  padding-left: 1rem;
+  font-size: 2vh;
+}
+
+.input input[type=text]{
+  padding-left: 1rem;
+  font-size: 2vh;
+}

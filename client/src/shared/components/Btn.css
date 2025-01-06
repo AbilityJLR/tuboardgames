@@ -1,0 +1,18 @@
+.btn{
+  display: flex;
+  justify-content: space-between;
+  background-color: #BE6969;
+  width: 80vw;
+  height: 4.5vh;
+  border-radius: 10px;
+  margin: 1rem 0;
+  color: white;
+  font-size: 16px;
+}
+
+.btn a{
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+}
+

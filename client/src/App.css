@@ -1,0 +1,18 @@
+.App {
+    text-align: center;
+    margin-top: 50px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#lobby-container {
+    max-width: 400px;
+    margin: 0 auto;
+}

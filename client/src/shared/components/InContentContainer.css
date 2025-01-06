@@ -1,0 +1,8 @@
+.in-content-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  color: #804242;
+  font-size: 4vw;
+}

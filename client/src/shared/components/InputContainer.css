@@ -1,0 +1,11 @@
+.input-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  font-size: 2vw;
+}
+
+.input-container a{
+  font-size: 2vw; 
+}

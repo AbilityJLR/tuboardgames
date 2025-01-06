@@ -1,0 +1,80 @@
+.gamecard{
+  display: block;
+  text-align: center;
+  margin: 1rem 0;
+  background-color: white;
+  height: 100%;
+  width: 80%;
+  border-radius: 25px;
+}
+
+.gamecard-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border-radius: 25px;
+  width: 100%;
+  height: 10vh;
+  background-size: 10vh;
+  margin-bottom: 2rem;
+  position: relative;
+  font-size: 1vw;
+}
+
+.in-gamecard-container{
+  width: 20%;
+}
+
+.in-gamecard-container img{
+  max-width: 100%;
+  height: auto;
+
+}
+
+.gamename{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  color: #804242;
+  width: 100%;
+  bottom: -1.25rem;
+}
+
+.text{
+  background-color: #E1D7D7;
+  border-radius: 18px;
+  height: 46px;
+  padding: 1rem;
+  left: 0;
+  width: 100;
+  font-size: 1vw;
+}
+
+@media screen and (max-width: 600px){
+.text{
+  background-color: #E1D7D7;
+  border-radius: 18px;
+  height: 46px;
+  padding: 1rem;
+  left: 0;
+  width: 100;
+  font-size: 12px
+}
+}
+
+@media screen and (min-width: 601px){
+.gamedetail{
+ font-size: 12px;
+ margin: 1rem
+}
+}
+
+@media screen and (max-width: 600px){
+.gamedetail{
+ font-size: 8px;
+ margin: 1rem;
+}
+}
+
