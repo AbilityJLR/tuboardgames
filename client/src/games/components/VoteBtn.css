@@ -1,0 +1,11 @@
+.vote-btn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #9F6B45;
+  border-radius: 10px;
+  width: 140px;
+  height: 40px;
+  color: #431F05;
+  padding: 0 10px;
+}

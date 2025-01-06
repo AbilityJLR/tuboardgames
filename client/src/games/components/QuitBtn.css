@@ -1,0 +1,11 @@
+.quit-btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #9F6B45;
+  border-radius: 10px;
+  width: 120px;
+  height: 40px;
+  color: #431F05;
+}
+

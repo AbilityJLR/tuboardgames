@@ -1,0 +1,9 @@
+.in-content{
+  width: 100%;
+}
+
+.in-content ul{
+  list-style-type: none;
+  color: darkgreen;
+  margin: 1rem 0;
+}

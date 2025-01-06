@@ -1,0 +1,12 @@
+.location-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F0A168;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 100%;
+  margin: 1rem 0;
+  font-size: 36px;
+  color: black;
+}
